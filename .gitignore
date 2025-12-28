@@ -1,0 +1,70 @@
+# Python
+*.py[cod]
+*$py.class
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Data files
+*.csv
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+data/
+datasets/
+images/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+
+# Model files
+*.pth
+*.pt
+*.ckpt
+*.pb
+*.onnx
+models/
+checkpoints/
+saved_models/
+weights/
+
+# Logs
+*.log
+logs/
+tensorboard/
+runs/
+
+# Results
+results/
+outputs/
+experiments/

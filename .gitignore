@@ -39,10 +39,10 @@ ENV/
 *.pickle
 data/
 datasets/
-images/
+# images/
 *.jpg
 *.jpeg
-*.png
+# *.png
 *.bmp
 *.tif
 *.tiff

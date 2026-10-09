@@ -2,7 +2,8 @@
 
 A high-performance, automated deep learning framework for the classification of Acute Lymphoblastic Leukemia (ALL) subtypes from peripheral blood smear images. This repository implements a novel hybrid feature extraction architecture (**HybridCN-NAS**) combining ConvNeXt-Large and NASNet-Large backbones with custom self-attention modules, coupled with a Multi-Head Self-Attention classifier.
 
-🌐 **Project Live Deployment**: [https://leukemia.francisrudra.com/](https://leukemia.francisrudra.com/)
+🌐 **Project Live Deployment**: [https://leukemia.francisrudra.com](https://leukemia.francisrudra.com)
+🌐 **Project Live Deployment 2**: [https://leukemia.camlas.win](https://leukemia.camlas.win)
 
 ---
 

@@ -1,4 +1,4 @@
-# HybridCN-NAS: Precision acute leukemia diagnosis using hybrid neural architecture search and Multi-Head Self-Attention
+# HybridCN-NAS: Precision acute leukemia diagnosis using a hybrid ConvNeXt–NASNet architecture and Multi-Head Self-Attention
 
 A high-performance, automated deep learning framework for the classification of Acute Lymphoblastic Leukemia (ALL) subtypes from peripheral blood smear images. This repository implements a novel hybrid feature extraction architecture (**HybridCN-NAS**) combining ConvNeXt-Large and NASNet-Large backbones with custom self-attention modules, coupled with a Multi-Head Self-Attention classifier.
 
